@@ -1,1 +1,1 @@
-# Coursera-MSU-Solar-System
+# Coursera-MSU-GDD1-Solar
